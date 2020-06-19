@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: ba66044cd5a5f9b4c996f6280726e1c4
+ScriptedImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7450314027684759463
+    second: Sprites_test_0
+  - first:
+      213: 901628707758091414
+    second: Sprites_test_1
+  - first:
+      213: 2820865916313445290
+    second: Sprites_test_2
+  - first:
+      213: 4413590485817963345
+    second: Sprites_test_3
+  - first:
+      213: -4205086572689623494
+    second: Sprites_test_4
+  - first:
+      213: 5673948040174823054
+    second: Sprites_test_5
+  - first:
+      213: -7307048952708164470
+    second: Sprites_test_6
+  - first:
+      213: -4422366604388450349
+    second: Sprites_test_7
+  - first:
+      213: -9096335899424642141
+    second: Sprites_test_8
+  - first:
+      213: 2460900867608124851
+    second: Sprites_test_9
+  - first:
+      213: -2921057628282190571
+    second: Sprites_test_10
+  - first:
+      213: -680611123355812340
+    second: Sprites_test_11
+  - first:
+      213: -4761362527681324247
+    second: Sprites_test_12
+  - first:
+      213: -5229876024449483130
+    second: Sprites_test_13
+  - first:
+      213: 6253527717419103002
+    second: Sprites_test_14
+  - first:
+      213: 6844690511769993895
+    second: Sprites_test_15
+  - first:
+      213: -6202070957188200552
+    second: Sprites_test_16
+  - first:
+      213: 3484807400944968915
+    second: Sprites_test_17
+  - first:
+      213: -6591991097904265598
+    second: Sprites_test_18
+  - first:
+      213: 6892027435083149143
+    second: Sprites_test_19
+  - first:
+      213: 4454407414167489229
+    second: Sprites_test_20
+  - first:
+      213: -7276735879556609242
+    second: Sprites_test_21
+  - first:
+      213: -5218770615837707459
+    second: Sprites_test_22
+  - first:
+      213: 1980236085427584362
+    second: Sprites_test_23
+  - first:
+      213: 7102255109449713697
+    second: Sprites_test_24
+  - first:
+      213: 4866768388115540928
+    second: Sprites_test_25
+  - first:
+      213: -1614216047669145730
+    second: Sprites_test_26
+  - first:
+      213: 2026419033647303629
+    second: Sprites_test_27
+  - first:
+      213: -8955727015357044440
+    second: Sprites_test_28
+  - first:
+      213: 979990362226158338
+    second: Sprites_test_29
+  - first:
+      213: -2924272477671010617
+    second: Sprites_test_30
+  - first:
+      213: 1063210501003381854
+    second: Sprites_test_31
+  - first:
+      213: 4867395370282847863
+    second: Sprites_test_32
+  - first:
+      213: 8597441275048631730
+    second: Sprites_test_33
+  - first:
+      213: 6801178612773386596
+    second: Sprites_test_34
+  - first:
+      213: -6444350057792090384
+    second: Sprites_test_35
+  - first:
+      213: -3436614485153273459
+    second: Sprites_test_36
+  - first:
+      213: 6596206948258085594
+    second: Sprites_test_37
+  - first:
+      213: 5543999397632658201
+    second: Sprites_test_38
+  - first:
+      213: -1749946619945792841
+    second: Sprites_test_39
+  - first:
+      213: 2804191487310189175
+    second: Sprites_test_40
+  - first:
+      213: 6483384356228249136
+    second: Sprites_test_41
+  - first:
+      213: 3705624584596944706
+    second: Sprites_test_42
+  - first:
+      213: -204904949247555200
+    second: Sprites_test_43
+  - first:
+      213: 5375105427384813452
+    second: Sprites_test_44
+  - first:
+      213: -6437771070506548288
+    second: Sprites_test_45
+  - first:
+      213: -5495042156246433521
+    second: Sprites_test_46
+  - first:
+      213: -7879009511550861362
+    second: Sprites_test_47
+  - first:
+      213: 27810871698428891
+    second: Sprites_test_48
+  - first:
+      213: -3366171360116505921
+    second: Sprites_test_49
+  - first:
+      213: -5777424586001702457
+    second: Sprites_test_50
+  - first:
+      213: -1467328340850340302
+    second: Sprites_test_51
+  - first:
+      213: 7830712370636224155
+    second: Sprites_test_52
+  - first:
+      213: 2169166111733348441
+    second: Sprites_test_53
+  - first:
+      213: 3363527950385167341
+    second: Sprites_test_54
+  - first:
+      213: 4196058892599017834
+    second: Sprites_test_55
+  - first:
+      213: -1895880001010643893
+    second: Sprites_test_56
+  - first:
+      213: 2710593251000948918
+    second: Sprites_test_57
+  - first:
+      213: -3856912653259899913
+    second: Sprites_test_58
+  - first:
+      213: -6894406856840165743
+    second: Sprites_test_59
+  - first:
+      213: -9200845881914844720
+    second: Sprites_test_60
+  - first:
+      213: -7235814361789260874
+    second: Sprites_test_61
+  - first:
+      213: -6028567312124584181
+    second: Sprites_test_62
+  - first:
+      213: -5135281031606785058
+    second: Sprites_test_63
+  - first:
+      213: 3000091400413897038
+    second: Sprites_test_64
+  - first:
+      213: -7107595393002255841
+    second: Sprites_test_65
+  - first:
+      213: -3361622228031192816
+    second: Sprites_test_66
+  - first:
+      213: 5057199997868255540
+    second: Sprites_test_67
+  - first:
+      213: -2896607680833686067
+    second: Sprites_test_68
+  - first:
+      213: 4643618298765415817
+    second: Sprites_test_69
+  - first:
+      213: -2790025844448422534
+    second: Sprites_test_70
+  - first:
+      213: -55994542005851765
+    second: Sprites_test_71
+  - first:
+      213: 2293359793606749645
+    second: Sprites_test_72
+  - first:
+      213: -9084517892238305859
+    second: Sprites_test_73
+  - first:
+      213: -1617552858747824607
+    second: Sprites_test_74
+  - first:
+      213: 6590575557049726425
+    second: Sprites_test_75
+  - first:
+      213: 8252970873345161287
+    second: Sprites_test_76
+  - first:
+      213: 8530556385856623212
+    second: Sprites_test_77
+  - first:
+      213: 1376392367563829583
+    second: Sprites_test_78
+  - first:
+      213: 4871799057894917008
+    second: Sprites_test_79
+  - first:
+      213: -2096184623948622308
+    second: Sprites_test_80
+  - first:
+      213: 3043758565940574679
+    second: Sprites_test_81
+  - first:
+      213: -5502071729151634866
+    second: Sprites_test_82
+  - first:
+      213: 7358303870745199425
+    second: Sprites_test_83
+  - first:
+      213: 5479350994625104204
+    second: Sprites_test_84
+  - first:
+      213: -5701962065557081246
+    second: Sprites_test_85
+  - first:
+      213: -913490382577148498
+    second: Sprites_test_86
+  - first:
+      213: -8586136557837354772
+    second: Sprites_test_87
+  - first:
+      213: -1900071483067154263
+    second: Sprites_test_88
+  - first:
+      213: 6310749136148990555
+    second: Sprites_test_89
+  - first:
+      213: -7763367940796066634
+    second: Sprites_test_90
+  - first:
+      213: -4386962706607709262
+    second: Sprites_test_91
+  - first:
+      213: -6589182866845878455
+    second: Sprites_test_92
+  - first:
+      213: 5578436885535079775
+    second: Sprites_test_93
+  - first:
+      213: 6807231601998275244
+    second: Sprites_test_94
+  - first:
+      213: 5282736484166898173
+    second: Sprites_test_95
+  - first:
+      213: 6206832741284423817
+    second: Sprites_test_96
+  - first:
+      213: -4348787955309607100
+    second: Sprites_test_97
+  - first:
+      213: 4842574433748701386
+    second: Sprites_test_98
+  - first:
+      213: -222345976474020387
+    second: Sprites_test_99
+  - first:
+      213: -3714918395935145327
+    second: Sprites_test_100
+  - first:
+      213: 1058808979393284331
+    second: Sprites_test_101
+  - first:
+      213: -7226964884139943117
+    second: Sprites_test_102
+  - first:
+      213: 3972564683677752212
+    second: Sprites_test_103
+  - first:
+      213: -5200977181582513129
+    second: Sprites_test_104
+  - first:
+      213: -357362894721895927
+    second: Sprites_test_105
+  - first:
+      213: 5413688666585103533
+    second: Sprites_test_106
+  - first:
+      213: -5158824374765693960
+    second: Sprites_test_107
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 32
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 192
+      height: 185
+    spriteID: 8a7ab2d79ed291e46ba00e681582536a
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: -60}
+  rigSpriteImportData:
+  - name: Layer 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 192
+      height: 185
+    spriteID: d8da0ee222902ff4296f723273577b1b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: -60}
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 256
+  importedTextureHeight: 256
+  documentSize: {x: 256, y: 256}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 256
+  textureActualHeight: 256
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 0
+  mosaicPSDLayers:
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8a7ab2d79ed291e46ba00e681582536a
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  rigPSDLayers:
+  - name: Layer 1
+    spriteName: Layer 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d8da0ee222902ff4296f723273577b1b
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Sprites_test Texture
+  prefabAssetName: Sprites_test Prefab
+  spriteLibAssetName: Sprites_test Sprite Lib
+  secondarySpriteTextures: []
